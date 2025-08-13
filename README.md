@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am mamad , i love programming and coding. 
-My Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,github,graphql,nodejs,postgres,postman,react,redux,tailwind,ts,,java)]
 
 <!--
