@@ -6,7 +6,7 @@
 
 ## 🚀 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,github,graphql,nodejs,postgres,postman,react,redux,tailwind,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,graphql,nodejs,postgres,postman,react,redux,tailwind,ts,java)](https://skillicons.dev)
 
 ---
 
